@@ -37,7 +37,9 @@ module.exports = {
     alias: {
       'styles': __dirname + '/src/styles',
       'mixins': __dirname + '/src/mixins',
-      'components': __dirname + '/src/components/'
+      'components': __dirname + '/src/components/',
+      'stores': __dirname + '/src/stores',
+      'actions': __dirname + '/src/actions'
     }
   },
 
