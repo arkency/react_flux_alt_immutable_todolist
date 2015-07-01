@@ -39,7 +39,8 @@ module.exports = {
       'mixins': __dirname + '/src/mixins',
       'components': __dirname + '/src/components/',
       'stores': __dirname + '/src/stores',
-      'actions': __dirname + '/src/actions'
+      'actions': __dirname + '/src/actions',
+      'lib': __dirname + '/src/lib'
     }
   },
 
