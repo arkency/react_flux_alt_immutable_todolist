@@ -18,7 +18,7 @@ module.exports = {
 
   debug: false,
   devtool: false,
-  entry: './src/components/ReactImmutableAltTodoApp.js',
+  entry: './src/TodoList.js',
 
   stats: {
     colors: true,

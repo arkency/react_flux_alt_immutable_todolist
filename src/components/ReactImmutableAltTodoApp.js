@@ -3,9 +3,6 @@
 var React = require('react/addons');
 var ReactTransitionGroup = React.addons.TransitionGroup;
 
-// CSS
-require('bootstrap/less/bootstrap.less');
-
 var imageURL = require('../images/yeoman.png');
 
 var ReactImmutableAltTodoApp = React.createClass({
@@ -19,6 +16,5 @@ var ReactImmutableAltTodoApp = React.createClass({
     );
   }
 });
-React.render(<ReactImmutableAltTodoApp />, document.getElementById('content')); // jshint ignore:line
 
 module.exports = ReactImmutableAltTodoApp;
