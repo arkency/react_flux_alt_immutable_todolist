@@ -10,8 +10,11 @@
   "mainInput": "ReactImmutableAltTodoApp",
   "mainOutput": "main",
   "dependencies": {
+    "alt": "^0.16.10",
+    "immutable": "^3.7.4",
+    "normalize.css": "~3.0.3",
     "react": "~0.13.1",
-    "normalize.css": "~3.0.3"
+    "react-bootstrap": "^0.23.7"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
