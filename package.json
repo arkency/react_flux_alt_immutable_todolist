@@ -22,7 +22,7 @@
     "grunt": "~0.4.5",
     "load-grunt-tasks": "~0.6.0",
     "grunt-contrib-connect": "~0.8.0",
-    "webpack": "~1.4.3",
+    "webpack": "~1.10.1",
     "grunt-webpack": "~1.0.8",
     "style-loader": "~0.8.0",
     "url-loader": "~0.5.5",
