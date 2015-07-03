@@ -1,4 +1,4 @@
-import UUID        from 'uuid';
+import UUID        from 'node-uuid';
 import Immutable   from 'immutable';
 import AltInstance from 'lib/AltInstance';
 
