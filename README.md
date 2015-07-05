@@ -17,6 +17,22 @@ The domain of this application is a simple todo list. Such application can:
 * Remove a task
 * Show a list of tasks
 
+See `FUTURE.md` for possible extensions to this simple idea that comes to my mind for now.
+
+## Installation:
+
+You need to have [Node.js](https://nodejs.org) installed. During development I've been using Node.js in 0.12.5 version and NPM in 2.11.2 version.
+
+```
+git clone https://github.com/arkency/react_flux_alt_immutable_todolist.git
+cd react_flux_alt_immutable_todolist
+npm install
+npm install -g grunt # You may need the root access for this. So, login as root or use sudo if that is the case.
+grunt serve
+```
+
+Your browser should start automatically then.
+
 ## React Kung Fu
 
 We're preparing something big for you. Since we love teaching React.js, we decided to create a whole new initiative called React Kung Fu.
