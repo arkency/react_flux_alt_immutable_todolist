@@ -37,7 +37,7 @@ Your browser should start automatically then.
 
 We're preparing something big for you. Since we love teaching React.js, we decided to create a whole new initiative called React Kung Fu.
 
-If you want to learn React in a simple way, seek no further. [Subscribe to our newsletter](http://arkency.us5.list-manage.com/subscribe?u=1bb42b52984bfa86e2ce35215&id=71db9e1b5a) and stay tuned for exclusive learning materials and content.
+If you want to learn React in a simple way, seek no further. [Subscribe to our newsletter](http://arkency.us5.list-manage.com/subscribe?u=1bb42b52984bfa86e2ce35215&id=71db9e1b5a), [read our blog](http://reactkungfu.com) and stay tuned for exclusive learning materials and content.
 
 ## License
 
