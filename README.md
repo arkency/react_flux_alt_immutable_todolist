@@ -27,7 +27,7 @@ You need to have [Node.js](https://nodejs.org) installed. During development I'v
 git clone https://github.com/arkency/react_flux_alt_immutable_todolist.git
 cd react_flux_alt_immutable_todolist
 npm install
-npm install -g grunt # You may need the root access for this. So, login as root or use sudo if that is the case.
+npm install -g grunt-cli # You may need the root access for this. So, login as root or use sudo if that is the case.
 grunt serve
 ```
 
